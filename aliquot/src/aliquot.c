@@ -42,7 +42,7 @@ int main (){
 
     long long currentNumber = startNumber;
     long long steps =0;
-    const long long LIMIT =10000000000000000;
+    const long long LIMIT =100000000000000;
 
     /*Αν θέλει να δεί ο χρήστησ την πλήρη μορφή*/
     if (choice =='f'){
