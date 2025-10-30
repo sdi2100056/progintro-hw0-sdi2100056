@@ -6,7 +6,7 @@ byte 4: the_triwizard_cup_is_now_yours
 byte 5:sdi2100056_1760950147_1184524424_109_242_233_234_37761_22
 byte 6:unzipping_is_a_piece_of_cake
 byte 7:tar_jokes_cant_stick
-byte 8:
+byte 8:cant_keep_secrets_from_you
 byte 9:
 byte 10:
 byte 11:
